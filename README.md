@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a full time student pursuing Masters in Software Engineering from Universiti Malaya.
-- 💻 I've 3 yrs of work experince as a Software Developer in IT comapany.
+- 💻 I've 3 yrs of work experince as a Software Developer in IT company.
 - 🌱 I’m currently interested in Backend development (Java based), microservices and frameworks used in industry level projects.
 - 🗃️ I'm also interested in non-reational databases used at industry level.
 - 💬 I'm really excited to go forward and learn about 'Web Application Frameworks' and hands on working with Django Framework in this course.
