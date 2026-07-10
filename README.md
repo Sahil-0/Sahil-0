@@ -1,22 +1,28 @@
 ## Hi there, I'm Sahil Pervej Ansari (Software Developer)👋
 
-<!--
-**Sahil-0/Sahil-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with 3+ years of professional experience and currently pursuing a Master of Software Engineering at Universiti Malaya, Kuala Lumpur.
+I enjoy designing and building scalable backend applications, writing clean and maintainable code, and continuously expanding my knowledge of modern software engineering practices.
 
-Here are some ideas to get you started:
+- 🎓 Master's student in Software Engineering at Universiti Malaya
+- 💼 3+ years of professional experience as a Software Developer
+- ☕ Passionate about Java, backend development, and object-oriented design
+- 🏗️ Interested in software architecture, microservices, and enterprise application development
+- 🗄️ Exploring relational and NoSQL database technologies used in modern applications (industry level)
+- 🌱 Currently enhancing my skills through hands-on Java, Maven, Spring ecosystem, and full-stack software engineering projects
+- 🤝 Open to collaborating on backend, Java, and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently a full time student pursuing Masters in Software Engineering from Universiti Malaya.
-- 💻 I've 3 yrs of work experince as a Software Developer in IT company.
-- 🌱 I’m currently interested in Backend development (Java based), microservices and frameworks used in industry level projects.
-- 🗃️ I'm also interested in non-relational databases used at industry level.
-- 💬 I'm really excited to go forward and learn about 'Web Application Frameworks' and hands on working with Django Framework in this course.
-- ⚡ Fun fact: I prioritize readability, maintainability, and clean architecture. Working software is important, but code that other developers can clearly understand is essential.
+### 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Maven
+- SQL
+- PostgreSQL
+- MySQL
+- Git & GitHub
+- Microservices
+- REST APIs
+
+⚡ Fun Fact
+
+I believe that good software isn't just about solving problems—it's also about writing clean, maintainable, and well-structured code that other developers can easily understand and extend.
